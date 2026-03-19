@@ -1,4 +1,4 @@
-![Portada ejercicios python]("/images/portada.png")
+![Portada ejercicios python]("/main/images/portada.png")
 👨‍💻 Javi Lázaro | SEO + Data + Programming
 
 # 📘 Coddy Programming Exercises

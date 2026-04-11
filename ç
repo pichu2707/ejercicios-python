@@ -1,0 +1,7 @@
+def get_capital(country_capitals, country_name):
+    country_capitals = country_capitals
+    print(country_capitals[country_name])
+    return country_capitals
+
+
+print(get_capital({"Norway": "Oslo", "Sweden": "Stockho"}, "Norway"))
